@@ -1,7 +1,10 @@
-soal no1. Dalam program ini, fungsi hitungLuasPermukaan digunakan untuk menghitung luas permukaan balok berdasarkan panjang, lebar, dan tinggi yang diberikan. Kemudian, di dalam main, pengguna diminta untuk memasukkan panjang, lebar, dan tinggi balok. Setelah itu, fungsi hitungLuasPermukaan dipanggil dengan input pengguna, dan hasilnya ditampilkan.
-          Dalam program ini, fungsi hitungLuasLayangLayang digunakan untuk menghitung luas layang-layang berdasarkan panjang diagonal pertama dan diagonal kedua yang diberikan. Di dalam main, pengguna diminta untuk memasukkan panjang kedua diagonal. Setelah itu, fungsi hitungLuasLayangLayang dipanggil dengan input pengguna, dan hasilnya ditampilkan.
-          Tipe data primitif adalah tipe data yang sudah ditentukan oleh sistem, tipe data primitif ini disediakan oleh banyak bahasa pemrograman, perbedaannya terletak pada jumlah bit yang dialokasikan untuk setiap bit pada tipe data primitif tergantung pada bahasa pemrograman,compiler dan sistem operasinya.
+soal no1. Dalam program ini, fungsi hitungLuasPermukaan digunakan untuk menghitung luas permukaan balok berdasarkan panjang, lebar, dan tinggi yang diberikan. Kemudian, di dalam main, pengguna diminta untuk memasukkan panjang, lebar, dan tinggi balok. Setelah itu, fungsi hitungLuasPermukaan dipanggil dengan input pengguna, dan hasilnya ditampilkan. Dalam program ini, fungsi hitungLuasLayangLayang digunakan untuk menghitung luas layang-layang berdasarkan panjang diagonal pertama dan diagonal kedua yang diberikan. Di dalam main, pengguna diminta untuk memasukkan panjang kedua diagonal. Setelah itu, fungsi hitungLuasLayangLayang dipanggil dengan input pengguna, dan hasilnya ditampilkan.Tipe data primitif adalah tipe data yang sudah ditentukan oleh sistem, tipe data primitif ini disediakan oleh banyak bahasa pemrograman, perbedaannya terletak pada jumlah bit yang dialokasikan untuk setiap bit pada tipe data primitif tergantung pada bahasa pemrograman,compiler dan sistem operasinya.
+     
+     
      no2. Fitur Clas adalah fitur Object Oriented Program(OPP) pada bahasa C++ yang mirip dengan fitur data structures Struct pada bahasa C. Keduanya berfungsi untuk membungkus tipe data di dalamnya sebagai anggota. menurut learn.microsoft.com perbedaan antara.
+     
+     
+     
      no3. Tipe Data yang Dapat Disimpan:
 
 Array: Array adalah kumpulan elemen-elemen dengan tipe data yang sama. Ini berarti semua elemen dalam array memiliki tipe data yang seragam.
